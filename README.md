@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **R**
 
-- 💬 Ask me about **Python,Machine Learning,Data Science,SQL,Statistics,Power BI**
+- 💬 Ask me about **Python,Machine Learning,Data Science,SQL,Statistics,Power BI,Tableau,Azure**
 
 - 📫 How to reach me **anandsumit625@gmail.com**
 
