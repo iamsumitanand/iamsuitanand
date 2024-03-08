@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sumit Anand</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A Data Scientist from India</h3>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **Natural Language Processing**
 
 - 🌱 I’m currently learning **R**
 
-- 💬 Ask me about **Python,Machine Learning,Data Science,SQL,Statistics,Power BI,Tableau,Azure**
+- 💬 Ask me about **Python, Machine Learning, Data Science, SQL, Statistics,Power BI, Tableau,Azure, DataBricks, MLOps**
 
 - 📫 How to reach me **anandsumit625@gmail.com**
 
